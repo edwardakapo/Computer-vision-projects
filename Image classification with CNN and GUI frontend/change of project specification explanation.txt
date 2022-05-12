@@ -1,0 +1,6 @@
+Oluwademilade Edward Akapo
+101095403
+
+This is a note to explain the change of my project specifications.
+While trying to understand the object detection problem using Yolo i realized that it is alot of work that wasnt taught in this course or my other AI course, thus after asking 
+other students what they were doing and seeing that their project were more simple than mine, i decided to change my project by only doing Image classification and not continuing to the detection. To make up for the reducition in complexity i did alot of reaserch into making the CNN accurate towards auguments such as rotations and translations by using different techniques when building and training the CNN. I also added a simple GUI frontend that you can input images to and get back results.
